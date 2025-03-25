@@ -1,5 +1,8 @@
 ## 🧠 DigitWise MNIST Comparison – Classic ML vs Deep Learning (with W&B Integration)
 
+<img width="928" alt="wandb-7" src="https://github.com/user-attachments/assets/a19732e7-8dd9-42d3-a8a0-ff3edc7962df" />
+
+
 Welcome to **DigitWise MNIST Comparison**, a one-stop Jupyter notebook project where we explore, train, compare, and **visually evaluate** multiple machine learning and deep learning models on the MNIST dataset.
 
 What makes this notebook special? It’s not just about accuracy - it’s about **experiment tracking**, **metric logging**, and **visual storytelling** using **[Weights & Biases (wandb)](https://wandb.ai)**.
