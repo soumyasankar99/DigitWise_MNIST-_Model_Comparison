@@ -55,6 +55,8 @@ The CNN model uses:
 - ReLU activations
 - Adam optimizer
 
+<img width="960" alt="wandb" src="https://github.com/user-attachments/assets/1e60693f-5625-48ee-8dc1-d5540ba0a6ba" />
+
 #### 3. 🔍 **Evaluation**
 
 For **each model**, we evaluated:
@@ -62,6 +64,9 @@ For **each model**, we evaluated:
 - Confusion Matrix
 - ROC Curve (multi-class using One-vs-Rest strategy)
 - Classification Report (precision, recall, F1)
+
+<img width="960" alt="wandb-1" src="https://github.com/user-attachments/assets/6d9edeb2-4111-41aa-9f7a-16c7ef8d70b1" /> 
+
 
 #### 4. 📊 **WandB Integration**
 
@@ -81,6 +86,14 @@ We used **Weights & Biases** to:
 - Custom function to log confusion matrix as W&B image
 - ROC curve visualizations with `wandb.Image()` support
 
+![media_images_Random Forest Confusion Matrix_6_a38f25627dbeba8aa223](https://github.com/user-attachments/assets/18bf0167-3531-40a7-be7e-f1e8ecf8c0cf)
+
+
+
+![media_images_Random Forest ROC Curve_2_69831bebeee6acf98f38](https://github.com/user-attachments/assets/ee448c73-2948-4420-a447-6409fccf5df2)
+
+
+
 ---
 
 ### 📌 Example Logs on WandB
@@ -89,6 +102,11 @@ We used **Weights & Biases** to:
 - **Metric Graphs**: Accuracy, Loss per epoch
 - **Visuals**: Confusion Matrices, ROC curves
 - **Artifacts** (optional): Trained model weights/files
+
+<img width="960" alt="wandb-2" src="https://github.com/user-attachments/assets/1c1e3ed0-b1e1-4b8c-a0bf-a9c010f88d93" />
+
+
+<img width="960" alt="wandb-4" src="https://github.com/user-attachments/assets/26d210a1-af83-4159-bd4a-c4e67579a047" />
 
 ---
 
