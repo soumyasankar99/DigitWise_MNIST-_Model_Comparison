@@ -132,6 +132,12 @@ digitwise_mnist_comparison.ipynb
 | Random Forest       | 96.2%     |
 | CNN (2 conv layers) | 98.7%     |
 
+<img width="960" alt="wandb-5" src="https://github.com/user-attachments/assets/6c515603-0875-4852-8b22-67560f9ccb92" />
+
+
+<img width="960" alt="wandb-6" src="https://github.com/user-attachments/assets/abf5bee4-b6c7-410e-8f40-31ac5a3f6b6f" />
+
+
 ---
 
 ### 📎 How to Run This Notebook
