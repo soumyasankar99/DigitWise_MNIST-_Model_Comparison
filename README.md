@@ -145,7 +145,7 @@ wandb login
 
 ### 👨‍💻 Author
 
-Crafted with ❤️ by [Your Name]  
+Crafted with ❤️ by Soumya Sankar
 Open for collaboration, PRs, and feedback!
 
 ---
