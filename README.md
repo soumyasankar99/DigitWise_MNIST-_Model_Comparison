@@ -123,7 +123,7 @@ digitwise_mnist_comparison.ipynb
 
 ---
 
-### 📈 Sample Results (You may customize this)
+### 📈 Sample Results 
 
 | Model                | Accuracy  |
 |---------------------|-----------|
@@ -131,6 +131,9 @@ digitwise_mnist_comparison.ipynb
 | KNN (k=5)           | 96.8%     |
 | Random Forest       | 96.2%     |
 | CNN (2 conv layers) | 98.7%     |
+
+
+![download](https://github.com/user-attachments/assets/fce3ec84-7a2d-4f07-a060-9734c8b8f417)
 
 <img width="960" alt="wandb-5" src="https://github.com/user-attachments/assets/6c515603-0875-4852-8b22-67560f9ccb92" />
 
